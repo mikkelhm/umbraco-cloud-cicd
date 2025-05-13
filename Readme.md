@@ -2,4 +2,4 @@
 
 This is much more of a change 
 
-it is more lines and really cool
+it is more lines and really cool.
