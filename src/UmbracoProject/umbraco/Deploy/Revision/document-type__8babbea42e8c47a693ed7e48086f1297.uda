@@ -6,7 +6,7 @@
     "umb://template/b5bc7e1e2cc44f20b02fcce1922a1728"
   ],
   "HistoryCleanup": {},
-  "Icon": "icon-award color-blue",
+  "Icon": "icon-bluetooth color-deep-purple",
   "Thumbnail": "folder.png",
   "Permissions": {
     "AllowedAtRoot": true,
