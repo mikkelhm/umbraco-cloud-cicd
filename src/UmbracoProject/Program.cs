@@ -23,7 +23,7 @@ app.UseUmbraco()
     {
         u.UseInstallerEndpoints();
         u.UseBackOfficeEndpoints();
-        u.UseWebsiteEndpoints();
+        u.UseWebsiteEndpoints(); 
     });
 
 await app.RunAsync();
